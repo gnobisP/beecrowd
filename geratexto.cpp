@@ -11,7 +11,7 @@ int main() {
         std::cout << "- [x]  [" << numero 
                   << "](https://www.beecrowd.com.br/repository/UOJ_" << numero << ".html) "
                   << "- [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2019/bee" 
-                  << numero << ".cpp)" << std::endl;
+                  << numero << ".cpp)" << std::endl<<std::endl;
     }
     
     return 0;

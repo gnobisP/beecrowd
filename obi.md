@@ -1,12 +1,17 @@
 # OBI (Olimpiadas brasileiras de informática)
 ## 2002
 
-- [x]  [2227](https://www.beecrowd.com.br/repository/UOJ_2227.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2019/bee2227.cpp)
-- [x]  [2228](https://www.beecrowd.com.br/repository/UOJ_2228.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2019/bee2228.cpp)
-- [x]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2019/bee2229.cpp)
-- [x]  [2230](https://www.beecrowd.com.br/repository/UOJ_2230.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2019/bee2230.cpp)
-- [x]  [2231](https://www.beecrowd.com.br/repository/UOJ_2231.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2019/bee2231.cpp)
-- [x]  [2232](https://www.beecrowd.com.br/repository/UOJ_2232.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2019/bee2232.cpp)
+- [x]  [2227](https://www.beecrowd.com.br/repository/UOJ_2227.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2002/bee2227.cpp)
+
+- [x]  [2228](https://www.beecrowd.com.br/repository/UOJ_2228.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2002/bee2228.cpp)
+
+- [x]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2002/bee2229.cpp)
+
+- [x]  [2230](https://www.beecrowd.com.br/repository/UOJ_2230.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2002/bee2230.cpp)
+
+- [x]  [2231](https://www.beecrowd.com.br/repository/UOJ_2231.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2002/bee2231.cpp)
+
+- [x]  [2232](https://www.beecrowd.com.br/repository/UOJ_2232.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/obi2002/bee2232.cpp)
 
 ## 2019
 

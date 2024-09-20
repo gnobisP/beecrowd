@@ -14,7 +14,7 @@ int main() {
                   << numero << ".cpp)" << std::endl<<std::endl;
     }*/
 
-    for (int i=2369;i<=2390;i++) {
+    for (int i=2391;i<=2407;i++) {
         // Gerando a linha no formato desejado
         std::cout << "- [x]  [" << i 
                   << "](https://www.beecrowd.com.br/repository/UOJ_" << i << ".html) "

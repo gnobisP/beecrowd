@@ -50,6 +50,110 @@
 
 - [x]  [2301](https://www.beecrowd.com.br/repository/UOJ_2301.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2301.cpp)
 
+## 2006
+- [x]  [2302](https://www.beecrowd.com.br/repository/UOJ_2302.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2302.cpp)
+
+- [x]  [2303](https://www.beecrowd.com.br/repository/UOJ_2303.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2303.cpp)
+
+- [ ]  [2304](https://www.beecrowd.com.br/repository/UOJ_2304.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2304.cpp)
+
+- [x]  [2305](https://www.beecrowd.com.br/repository/UOJ_2305.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2305.cpp)
+
+- [ ]  [2306](https://www.beecrowd.com.br/repository/UOJ_2306.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2306.cpp)
+
+- [x]  [2307](https://www.beecrowd.com.br/repository/UOJ_2307.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2307.cpp)
+
+- [x]  [2308](https://www.beecrowd.com.br/repository/UOJ_2308.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2308.cpp)
+
+- [x]  [2309](https://www.beecrowd.com.br/repository/UOJ_2309.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2309.cpp)
+
+- [x]  [2316](https://www.beecrowd.com.br/repository/UOJ_2316.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2316.cpp)
+
+- [x]  [2317](https://www.beecrowd.com.br/repository/UOJ_2317.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2317.cpp)
+
+- [x]  [2318](https://www.beecrowd.com.br/repository/UOJ_2318.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2318.cpp)
+
+- [x]  [2319](https://www.beecrowd.com.br/repository/UOJ_2319.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2319.cpp)
+
+- [x]  [2320](https://www.beecrowd.com.br/repository/UOJ_2320.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2320.cpp)
+
+## 2007
+
+- [ ]  [2321](https://www.beecrowd.com.br/repository/UOJ_2321.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2321.cpp)
+
+- [ ]  [2322](https://www.beecrowd.com.br/repository/UOJ_2322.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2322.cpp)
+
+- [ ]  [2323](https://www.beecrowd.com.br/repository/UOJ_2323.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2323.cpp)
+
+- [ ]  [2324](https://www.beecrowd.com.br/repository/UOJ_2324.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2324.cpp)
+
+- [ ]  [2325](https://www.beecrowd.com.br/repository/UOJ_2325.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2325.cpp)
+
+- [ ]  [2326](https://www.beecrowd.com.br/repository/UOJ_2326.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2326.cpp)
+
+- [ ]  [2327](https://www.beecrowd.com.br/repository/UOJ_2327.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2327.cpp)
+
+- [ ]  [2328](https://www.beecrowd.com.br/repository/UOJ_2328.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2328.cpp)
+
+- [ ]  [2329](https://www.beecrowd.com.br/repository/UOJ_2329.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2329.cpp)
+
+- [ ]  [2330](https://www.beecrowd.com.br/repository/UOJ_2330.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2330.cpp)
+
+- [ ]  [2331](https://www.beecrowd.com.br/repository/UOJ_2331.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2331.cpp)
+
+- [ ]  [2332](https://www.beecrowd.com.br/repository/UOJ_2332.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2332.cpp)
+
+- [ ]  [2333](https://www.beecrowd.com.br/repository/UOJ_2333.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2333.cpp)
+
+
+
+## 2010
+
+- [x]  [2369](https://www.beecrowd.com.br/repository/UOJ_2369.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2369.cpp)
+
+- [x]  [2370](https://www.beecrowd.com.br/repository/UOJ_2370.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2370.cpp)
+
+- [x]  [2371](https://www.beecrowd.com.br/repository/UOJ_2371.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2371.cpp)
+
+- [x]  [2372](https://www.beecrowd.com.br/repository/UOJ_2372.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2372.cpp)
+
+- [x]  [2373](https://www.beecrowd.com.br/repository/UOJ_2373.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2373.cpp)
+
+- [ ]  [2374](https://www.beecrowd.com.br/repository/UOJ_2374.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2374.cpp)
+
+- [x]  [2375](https://www.beecrowd.com.br/repository/UOJ_2375.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2375.cpp)
+
+- [x]  [2376](https://www.beecrowd.com.br/repository/UOJ_2376.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2376.cpp)
+
+- [ ]  [2377](https://www.beecrowd.com.br/repository/UOJ_2377.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2377.cpp)
+
+- [x]  [2378](https://www.beecrowd.com.br/repository/UOJ_2378.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2378.cpp)
+
+- [x]  [2379](https://www.beecrowd.com.br/repository/UOJ_2379.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2379.cpp)
+
+- [x]  [2380](https://www.beecrowd.com.br/repository/UOJ_2380.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2380.cpp)
+
+- [x]  [2381](https://www.beecrowd.com.br/repository/UOJ_2381.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2381.cpp)
+
+- [x]  [2382](https://www.beecrowd.com.br/repository/UOJ_2382.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2382.cpp)
+
+- [x]  [2383](https://www.beecrowd.com.br/repository/UOJ_2383.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2383.cpp)
+
+- [x]  [2384](https://www.beecrowd.com.br/repository/UOJ_2384.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2384.cpp)
+
+- [x]  [2385](https://www.beecrowd.com.br/repository/UOJ_2385.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2385.cpp)
+
+- [x]  [2386](https://www.beecrowd.com.br/repository/UOJ_2386.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2386.cpp)
+
+- [x]  [2387](https://www.beecrowd.com.br/repository/UOJ_2387.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2387.cpp)
+
+- [ ]  [2388](https://www.beecrowd.com.br/repository/UOJ_2388.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2388.cpp)
+
+- [ ]  [2389](https://www.beecrowd.com.br/repository/UOJ_2389.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2389.cpp)
+
+- [x]  [2390](https://www.beecrowd.com.br/repository/UOJ_2390.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee2390.cpp)
+
+
 ## 2019
 
 - [x]  [3046](https://www.beecrowd.com.br/repository/UOJ_3046.html) - [Solution](https://github.com/gnobisP/beecrowd/blob/main/URI/bee3046.cpp)
